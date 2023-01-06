@@ -2,5 +2,7 @@
 
 Teftelka is pretty cute cat! :)
 
-Yep That's absolutelly correct !!! :)
+Yep, that's absolutelly correct !!! :)
+Good Luck with your github pushing!
+
 
